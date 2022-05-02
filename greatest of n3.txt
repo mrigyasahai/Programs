@@ -1,0 +1,8 @@
+greatest of three
+logic: we will assign three variables then will give address to them via scanf
+then will use conditonal statement "if" 
+if A>b and b<c then print "a is greatest"
+else 
+check if b is greater than c 
+print "b is greatest 
+else print "c is greatest"
